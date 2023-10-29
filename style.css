@@ -18,7 +18,7 @@ body{
 .menu-bar{
     position: fixed;
     border: 0;
-    background-color: #8a817c;
+    background-color: grey;
     display: block;
     width: 200px;
     height: 100vh;
