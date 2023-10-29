@@ -11,14 +11,14 @@ body{
 #profile-img{
     width: 150px;
     height: 150px;
-    border: 5px solid #d4a373;
+    border: 5px solid #463f3a;
     transform: scale(1);
     border-radius: 70%;
 }
 .menu-bar{
     position: fixed;
     border: 0;
-    background-color: #faedcd;
+    background-color: #8a817c;
     display: block;
     width: 200px;
     height: 100vh;
@@ -33,7 +33,7 @@ body{
 }
 /* 목차 */
 .index h3{
-    color: #463f3a;
+    color: white;
     opacity: 0.8; /* 투명도 */
     text-decoration: none;
     cursor: pointer;
@@ -52,4 +52,7 @@ body{
 }
 footer #sns:hover{
     transform: translate(0, -3px);
+}
+section{
+    margin-left: 300px;
 }
