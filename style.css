@@ -42,3 +42,14 @@ body{
 .index h3:hover{ /* hover : 마우스 커서 올릴 때 (오버)효과 */
     transform: scale(1.1);
 }
+
+
+
+#sns{
+    width: 40px;
+    height: 40px;
+    opacity: 0.8;
+}
+footer #sns:hover{
+    transform: translate(0, -3px);
+}
